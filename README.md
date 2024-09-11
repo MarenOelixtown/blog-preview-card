@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](/assets/images/screenshot-blogcard-desktop.png){width=10%}
+![Desktop](/assets/images/screenshot-blogcard-desktop.png)
 ![Mobile](/assets/images/screenshot-blogcard-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Blog Card / Vercel deployment](https://blog-preview-card-chi-eight.vercel.app/)
 
 ## My process
 
